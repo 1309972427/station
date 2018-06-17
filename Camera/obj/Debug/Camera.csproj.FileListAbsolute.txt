@@ -1,0 +1,317 @@
+E:\devwork\Csdk\soft\Camera\bin\Camera.exe
+E:\devwork\Csdk\soft\Camera\bin\Camera.pdb
+E:\devwork\Csdk\soft\Camera\obj\Debug\Camera.Properties.Resources.resources
+E:\devwork\Csdk\soft\Camera\obj\Debug\Camera.csproj.GenerateResource.Cache
+E:\devwork\Csdk\soft\Camera\obj\Debug\Camera.exe
+E:\devwork\Csdk\soft\Camera\obj\Debug\Camera.pdb
+E:\devwork\Csdk\soft\Camera\obj\Debug\camera.elevatorinfo.resources
+E:\devwork\Csdk\soft\Camera\obj\Debug\camera.realview.resources
+E:\devwork\Csdk\soft\Camera\obj\Debug\Camera.csprojResolveAssemblyReference.cache
+C:\Users\tw\Desktop\Camera\obj\Debug\Camera.pdb
+C:\Users\tw\Desktop\Camera\bin\Camera.pdb
+C:\Users\tw\Desktop\Camera\obj\Debug\Camera.elevatorinfo.resources
+C:\Users\tw\Desktop\Camera\obj\Debug\Camera.Properties.Resources.resources
+C:\Users\tw\Desktop\Camera\obj\Debug\Camera.realview.resources
+C:\Users\tw\Desktop\Camera\obj\Debug\Camera.csproj.GenerateResource.Cache
+C:\Users\tw\Desktop\Camera\bin\Camera.dll
+C:\Users\tw\Desktop\Camera\obj\Debug\Camera.dll
+C:\Users\tw\Desktop\Camera\obj\Debug\Camera.Form1.resources
+C:\Users\tw\Desktop\Camera\obj\Debug\Camera.csprojResolveAssemblyReference.cache
+C:\Users\xlqq\Desktop\Camera\bin\Camera.dll
+C:\Users\xlqq\Desktop\Camera\bin\Camera.pdb
+C:\Users\xlqq\Desktop\Camera\obj\Debug\Camera.csprojResolveAssemblyReference.cache
+C:\Users\xlqq\Desktop\Camera\obj\Debug\Camera.elevatorinfo.resources
+C:\Users\xlqq\Desktop\Camera\obj\Debug\Camera.Form1.resources
+C:\Users\xlqq\Desktop\Camera\obj\Debug\Camera.Properties.Resources.resources
+C:\Users\xlqq\Desktop\Camera\obj\Debug\Camera.realview.resources
+C:\Users\xlqq\Desktop\Camera\obj\Debug\Camera.csproj.GenerateResource.Cache
+C:\Users\xlqq\Desktop\Camera\obj\Debug\Camera.dll
+C:\Users\xlqq\Desktop\Camera\obj\Debug\Camera.pdb
+C:\Users\xlqq\Documents\Tencent Files\919918865\FileRecv\WindowsFormsApplication1\Camera\bin\Camera.dll
+C:\Users\xlqq\Documents\Tencent Files\919918865\FileRecv\WindowsFormsApplication1\Camera\bin\Camera.pdb
+C:\Users\xlqq\Documents\Tencent Files\919918865\FileRecv\WindowsFormsApplication1\Camera\obj\Debug\Camera.elevatorinfo.resources
+C:\Users\xlqq\Documents\Tencent Files\919918865\FileRecv\WindowsFormsApplication1\Camera\obj\Debug\Camera.Form1.resources
+C:\Users\xlqq\Documents\Tencent Files\919918865\FileRecv\WindowsFormsApplication1\Camera\obj\Debug\Camera.Properties.Resources.resources
+C:\Users\xlqq\Documents\Tencent Files\919918865\FileRecv\WindowsFormsApplication1\Camera\obj\Debug\Camera.realview.resources
+C:\Users\xlqq\Documents\Tencent Files\919918865\FileRecv\WindowsFormsApplication1\Camera\obj\Debug\Camera.csproj.GenerateResource.Cache
+C:\Users\xlqq\Documents\Tencent Files\919918865\FileRecv\WindowsFormsApplication1\Camera\obj\Debug\Camera.dll
+C:\Users\xlqq\Documents\Tencent Files\919918865\FileRecv\WindowsFormsApplication1\Camera\obj\Debug\Camera.pdb
+C:\Users\xlqq\Documents\Tencent Files\919918865\FileRecv\WindowsFormsApplication1\Camera\obj\Debug\Camera.csprojResolveAssemblyReference.cache
+D:\WindowsFormsApplication1\Camera\bin\Camera.dll
+D:\WindowsFormsApplication1\Camera\bin\Camera.pdb
+D:\WindowsFormsApplication1\Camera\obj\Debug\Camera.elevatorinfo.resources
+D:\WindowsFormsApplication1\Camera\obj\Debug\Camera.Form1.resources
+D:\WindowsFormsApplication1\Camera\obj\Debug\Camera.Properties.Resources.resources
+D:\WindowsFormsApplication1\Camera\obj\Debug\Camera.realview.resources
+D:\WindowsFormsApplication1\Camera\obj\Debug\Camera.csproj.GenerateResource.Cache
+D:\WindowsFormsApplication1\Camera\obj\Debug\Camera.dll
+D:\WindowsFormsApplication1\Camera\obj\Debug\Camera.pdb
+D:\WindowsFormsApplication1\Camera\obj\Debug\Camera.csprojResolveAssemblyReference.cache
+D:\Csdk\上铁电梯\WindowsFormsApplication1\WindowsFormsApplication1\Camera\bin\Camera.dll
+D:\Csdk\上铁电梯\WindowsFormsApplication1\WindowsFormsApplication1\Camera\bin\Camera.pdb
+D:\Csdk\上铁电梯\WindowsFormsApplication1\WindowsFormsApplication1\Camera\obj\Debug\Camera.elevatorinfo.resources
+D:\Csdk\上铁电梯\WindowsFormsApplication1\WindowsFormsApplication1\Camera\obj\Debug\Camera.Properties.Resources.resources
+D:\Csdk\上铁电梯\WindowsFormsApplication1\WindowsFormsApplication1\Camera\obj\Debug\Camera.realview.resources
+D:\Csdk\上铁电梯\WindowsFormsApplication1\WindowsFormsApplication1\Camera\obj\Debug\Camera.csproj.GenerateResource.Cache
+D:\Csdk\上铁电梯\WindowsFormsApplication1\WindowsFormsApplication1\Camera\obj\Debug\Camera.dll
+D:\Csdk\上铁电梯\WindowsFormsApplication1\WindowsFormsApplication1\Camera\obj\Debug\Camera.pdb
+E:\devwork\Csdk\上铁电梯\WindowsFormsApplication1\Camera\bin\Camera.dll
+E:\devwork\Csdk\上铁电梯\WindowsFormsApplication1\Camera\bin\Camera.pdb
+E:\devwork\Csdk\上铁电梯\WindowsFormsApplication1\Camera\obj\Debug\Camera.elevatorinfo.resources
+E:\devwork\Csdk\上铁电梯\WindowsFormsApplication1\Camera\obj\Debug\Camera.Properties.Resources.resources
+E:\devwork\Csdk\上铁电梯\WindowsFormsApplication1\Camera\obj\Debug\Camera.realview.resources
+E:\devwork\Csdk\上铁电梯\WindowsFormsApplication1\Camera\obj\Debug\Camera.csproj.GenerateResource.Cache
+E:\devwork\Csdk\上铁电梯\WindowsFormsApplication1\Camera\obj\Debug\Camera.dll
+E:\devwork\Csdk\上铁电梯\WindowsFormsApplication1\Camera\obj\Debug\Camera.pdb
+E:\devwork\Csdk\上铁电梯\WindowsFormsApplication1\Camera\obj\Debug\Camera.csprojResolveAssemblyReference.cache
+E:\devwork\Csdk\上铁电梯\WindowsFormsApplication1\Camera\obj\Debug\Camera.csproj.CoreCompileInputs.cache
+D:\Csdk\上铁电梯\WindowsFormsApplication1\WindowsFormsApplication1\Camera\obj\Debug\Camera.csprojResolveAssemblyReference.cache
+C:\Users\fuyon\Desktop\WindowsFormsApplication1\Camera\bin\Camera.dll
+C:\Users\fuyon\Desktop\WindowsFormsApplication1\Camera\bin\Camera.pdb
+C:\Users\fuyon\Desktop\WindowsFormsApplication1\Camera\obj\Debug\Camera.csprojResolveAssemblyReference.cache
+C:\Users\fuyon\Desktop\WindowsFormsApplication1\Camera\obj\Debug\Camera.elevatorinfo.resources
+C:\Users\fuyon\Desktop\WindowsFormsApplication1\Camera\obj\Debug\Camera.Properties.Resources.resources
+C:\Users\fuyon\Desktop\WindowsFormsApplication1\Camera\obj\Debug\Camera.realview.resources
+C:\Users\fuyon\Desktop\WindowsFormsApplication1\Camera\obj\Debug\Camera.csproj.GenerateResource.Cache
+C:\Users\fuyon\Desktop\WindowsFormsApplication1\Camera\obj\Debug\Camera.dll
+C:\Users\fuyon\Desktop\WindowsFormsApplication1\Camera\obj\Debug\Camera.pdb
+F:\working\WindowsFormsApplication1\Camera\obj\Debug\Camera.elevatorinfo.resources
+F:\working\WindowsFormsApplication1\Camera\obj\Debug\Camera.Properties.Resources.resources
+F:\working\WindowsFormsApplication1\Camera\obj\Debug\Camera.realview.resources
+F:\working\WindowsFormsApplication1\Camera\obj\Debug\Camera.csproj.GenerateResource.Cache
+F:\working\WindowsFormsApplication1\Camera\bin\Camera.dll
+F:\working\WindowsFormsApplication1\Camera\bin\Camera.pdb
+F:\working\WindowsFormsApplication1\Camera\obj\Debug\Camera.dll
+F:\working\WindowsFormsApplication1\Camera\obj\Debug\Camera.pdb
+C:\Users\Administrator\Desktop\Camera\obj\Debug\Camera.elevatorinfo.resources
+C:\Users\Administrator\Desktop\Camera\obj\Debug\Camera.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Camera\obj\Debug\Camera.realview.resources
+C:\Users\Administrator\Desktop\Camera\obj\Debug\Camera.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\Camera\bin\Camera.dll
+C:\Users\Administrator\Desktop\Camera\bin\Camera.pdb
+C:\Users\Administrator\Desktop\Camera\obj\Debug\Camera.dll
+C:\Users\Administrator\Desktop\Camera\obj\Debug\Camera.pdb
+C:\Users\Administrator\Desktop\南京上铁1-16\Camera\bin\Camera.dll
+C:\Users\Administrator\Desktop\南京上铁1-16\Camera\bin\Camera.pdb
+C:\Users\Administrator\Desktop\南京上铁1-16\Camera\obj\Debug\Camera.elevatorinfo.resources
+C:\Users\Administrator\Desktop\南京上铁1-16\Camera\obj\Debug\Camera.Properties.Resources.resources
+C:\Users\Administrator\Desktop\南京上铁1-16\Camera\obj\Debug\Camera.realview.resources
+C:\Users\Administrator\Desktop\南京上铁1-16\Camera\obj\Debug\Camera.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\南京上铁1-16\Camera\obj\Debug\Camera.dll
+C:\Users\Administrator\Desktop\南京上铁1-16\Camera\obj\Debug\Camera.pdb
+C:\Users\Administrator\Desktop\softs\南京上铁1-16\Camera\bin\Camera.dll
+C:\Users\Administrator\Desktop\softs\南京上铁1-16\Camera\bin\Camera.pdb
+C:\Users\Administrator\Desktop\softs\南京上铁1-16\Camera\obj\Debug\Camera.elevatorinfo.resources
+C:\Users\Administrator\Desktop\softs\南京上铁1-16\Camera\obj\Debug\Camera.Properties.Resources.resources
+C:\Users\Administrator\Desktop\softs\南京上铁1-16\Camera\obj\Debug\Camera.realview.resources
+C:\Users\Administrator\Desktop\softs\南京上铁1-16\Camera\obj\Debug\Camera.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\softs\南京上铁1-16\Camera\obj\Debug\Camera.dll
+C:\Users\Administrator\Desktop\softs\南京上铁1-16\Camera\obj\Debug\Camera.pdb
+C:\Users\Administrator\Desktop\softs\南京上铁1-16\Camera\obj\Debug\Camera.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\DDDD\南京上铁2-6\Camera\bin\Camera.dll
+C:\Users\Administrator\Desktop\DDDD\南京上铁2-6\Camera\bin\Camera.pdb
+C:\Users\Administrator\Desktop\DDDD\南京上铁2-6\Camera\obj\Debug\Camera.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\DDDD\南京上铁2-6\Camera\obj\Debug\Camera.elevatorinfo.resources
+C:\Users\Administrator\Desktop\DDDD\南京上铁2-6\Camera\obj\Debug\Camera.Properties.Resources.resources
+C:\Users\Administrator\Desktop\DDDD\南京上铁2-6\Camera\obj\Debug\Camera.realview.resources
+C:\Users\Administrator\Desktop\DDDD\南京上铁2-6\Camera\obj\Debug\Camera.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\DDDD\南京上铁2-6\Camera\obj\Debug\Camera.dll
+C:\Users\Administrator\Desktop\DDDD\南京上铁2-6\Camera\obj\Debug\Camera.pdb
+C:\Users\pc\Desktop\njst  3-17\南京上铁3-17\Camera\bin\Camera.dll
+C:\Users\pc\Desktop\njst  3-17\南京上铁3-17\Camera\bin\Camera.pdb
+C:\Users\pc\Desktop\njst  3-17\南京上铁3-17\Camera\obj\Debug\Camera.elevatorinfo.resources
+C:\Users\pc\Desktop\njst  3-17\南京上铁3-17\Camera\obj\Debug\Camera.Properties.Resources.resources
+C:\Users\pc\Desktop\njst  3-17\南京上铁3-17\Camera\obj\Debug\Camera.realview.resources
+C:\Users\pc\Desktop\njst  3-17\南京上铁3-17\Camera\obj\Debug\Camera.csproj.GenerateResource.Cache
+C:\Users\pc\Desktop\njst  3-17\南京上铁3-17\Camera\obj\Debug\Camera.dll
+C:\Users\pc\Desktop\njst  3-17\南京上铁3-17\Camera\obj\Debug\Camera.pdb
+C:\Users\pc\Desktop\njst  3-17\南京上铁3-17\Camera\obj\Debug\Camera.csprojResolveAssemblyReference.cache
+F:\njst  3-17\南京上铁3-17\Camera\bin\Camera.dll
+F:\njst  3-17\南京上铁3-17\Camera\bin\Camera.pdb
+F:\njst  3-17\南京上铁3-17\Camera\bin\Newtonsoft.Json.dll
+F:\njst  3-17\南京上铁3-17\Camera\bin\Newtonsoft.Json.xml
+F:\njst  3-17\南京上铁3-17\Camera\obj\Debug\Camera.elevatorinfo.resources
+F:\njst  3-17\南京上铁3-17\Camera\obj\Debug\Camera.Information.resources
+F:\njst  3-17\南京上铁3-17\Camera\obj\Debug\Camera.Properties.Resources.resources
+F:\njst  3-17\南京上铁3-17\Camera\obj\Debug\Camera.realview.resources
+F:\njst  3-17\南京上铁3-17\Camera\obj\Debug\Camera.RecordForm.resources
+F:\njst  3-17\南京上铁3-17\Camera\obj\Debug\Camera.csproj.GenerateResource.Cache
+F:\njst  3-17\南京上铁3-17\Camera\obj\Debug\Camera.dll
+F:\njst  3-17\南京上铁3-17\Camera\obj\Debug\Camera.pdb
+C:\Users\Administrator\Desktop\3-17\Camera\bin\Camera.dll
+C:\Users\Administrator\Desktop\3-17\Camera\bin\Camera.pdb
+C:\Users\Administrator\Desktop\3-17\Camera\bin\Newtonsoft.Json.dll
+C:\Users\Administrator\Desktop\3-17\Camera\bin\Newtonsoft.Json.xml
+C:\Users\Administrator\Desktop\3-17\Camera\obj\Debug\Camera.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\3-17\Camera\obj\Debug\Camera.elevatorinfo.resources
+C:\Users\Administrator\Desktop\3-17\Camera\obj\Debug\Camera.Information.resources
+C:\Users\Administrator\Desktop\3-17\Camera\obj\Debug\Camera.Properties.Resources.resources
+C:\Users\Administrator\Desktop\3-17\Camera\obj\Debug\Camera.realview.resources
+C:\Users\Administrator\Desktop\3-17\Camera\obj\Debug\Camera.RecordForm.resources
+C:\Users\Administrator\Desktop\3-17\Camera\obj\Debug\Camera.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\3-17\Camera\obj\Debug\Camera.dll
+C:\Users\Administrator\Desktop\3-17\Camera\obj\Debug\Camera.pdb
+C:\Users\Administrator\Desktop\3-24\Camera\bin\Camera.dll
+C:\Users\Administrator\Desktop\3-24\Camera\bin\Camera.pdb
+C:\Users\Administrator\Desktop\3-24\Camera\bin\Newtonsoft.Json.dll
+C:\Users\Administrator\Desktop\3-24\Camera\bin\Newtonsoft.Json.xml
+C:\Users\Administrator\Desktop\3-24\Camera\obj\Debug\Camera.elevatorinfo.resources
+C:\Users\Administrator\Desktop\3-24\Camera\obj\Debug\Camera.Information.resources
+C:\Users\Administrator\Desktop\3-24\Camera\obj\Debug\Camera.Properties.Resources.resources
+C:\Users\Administrator\Desktop\3-24\Camera\obj\Debug\Camera.realview.resources
+C:\Users\Administrator\Desktop\3-24\Camera\obj\Debug\Camera.RecordForm.resources
+C:\Users\Administrator\Desktop\3-24\Camera\obj\Debug\Camera.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\3-24\Camera\obj\Debug\Camera.dll
+C:\Users\Administrator\Desktop\3-24\Camera\obj\Debug\Camera.pdb
+E:\3-24\Camera\bin\Camera.dll
+E:\3-24\Camera\bin\Camera.pdb
+E:\3-24\Camera\bin\Newtonsoft.Json.dll
+E:\3-24\Camera\bin\Newtonsoft.Json.xml
+E:\3-24\Camera\obj\Debug\Camera.elevatorinfo.resources
+E:\3-24\Camera\obj\Debug\Camera.Information.resources
+E:\3-24\Camera\obj\Debug\Camera.Properties.Resources.resources
+E:\3-24\Camera\obj\Debug\Camera.realview.resources
+E:\3-24\Camera\obj\Debug\Camera.RecordForm.resources
+E:\3-24\Camera\obj\Debug\Camera.csproj.GenerateResource.Cache
+E:\3-24\Camera\obj\Debug\Camera.dll
+E:\3-24\Camera\obj\Debug\Camera.pdb
+F:\3-24\Camera\bin\Camera.dll
+F:\3-24\Camera\bin\Camera.pdb
+F:\3-24\Camera\bin\Newtonsoft.Json.dll
+F:\3-24\Camera\bin\Newtonsoft.Json.xml
+F:\3-24\Camera\obj\Debug\Camera.elevatorinfo.resources
+F:\3-24\Camera\obj\Debug\Camera.Information.resources
+F:\3-24\Camera\obj\Debug\Camera.Properties.Resources.resources
+F:\3-24\Camera\obj\Debug\Camera.realview.resources
+F:\3-24\Camera\obj\Debug\Camera.RecordForm.resources
+F:\3-24\Camera\obj\Debug\Camera.csproj.GenerateResource.Cache
+F:\3-24\Camera\obj\Debug\Camera.dll
+F:\3-24\Camera\obj\Debug\Camera.pdb
+F:\3-24\Camera\obj\Debug\Camera.csprojResolveAssemblyReference.cache
+E:\3-24\Camera\obj\Debug\Camera.csprojResolveAssemblyReference.cache
+D:\3-24\Camera\bin\Camera.dll
+D:\3-24\Camera\bin\Camera.pdb
+D:\3-24\Camera\bin\Newtonsoft.Json.dll
+D:\3-24\Camera\bin\Newtonsoft.Json.xml
+D:\3-24\Camera\obj\Debug\Camera.csprojResolveAssemblyReference.cache
+D:\3-24\Camera\obj\Debug\Camera.elevatorinfo.resources
+D:\3-24\Camera\obj\Debug\Camera.Information.resources
+D:\3-24\Camera\obj\Debug\Camera.Properties.Resources.resources
+D:\3-24\Camera\obj\Debug\Camera.realview.resources
+D:\3-24\Camera\obj\Debug\Camera.RecordForm.resources
+D:\3-24\Camera\obj\Debug\Camera.csproj.GenerateResource.Cache
+D:\3-24\Camera\obj\Debug\Camera.dll
+D:\3-24\Camera\obj\Debug\Camera.pdb
+E:\5-18\Camera\bin\Camera.dll
+E:\5-18\Camera\bin\Camera.pdb
+E:\5-18\Camera\bin\Newtonsoft.Json.dll
+E:\5-18\Camera\bin\Newtonsoft.Json.xml
+E:\5-18\Camera\obj\Debug\Camera.elevatorinfo.resources
+E:\5-18\Camera\obj\Debug\Camera.Information.resources
+E:\5-18\Camera\obj\Debug\Camera.Properties.Resources.resources
+E:\5-18\Camera\obj\Debug\Camera.realview.resources
+E:\5-18\Camera\obj\Debug\Camera.RecordForm.resources
+E:\5-18\Camera\obj\Debug\Camera.csproj.GenerateResource.Cache
+E:\5-18\Camera\obj\Debug\Camera.dll
+E:\5-18\Camera\obj\Debug\Camera.pdb
+F:\5-18\Camera\bin\Camera.dll
+F:\5-18\Camera\bin\Camera.pdb
+F:\5-18\Camera\bin\Newtonsoft.Json.dll
+F:\5-18\Camera\bin\Newtonsoft.Json.xml
+F:\5-18\Camera\obj\Debug\Camera.elevatorinfo.resources
+F:\5-18\Camera\obj\Debug\Camera.Information.resources
+F:\5-18\Camera\obj\Debug\Camera.Properties.Resources.resources
+F:\5-18\Camera\obj\Debug\Camera.realview.resources
+F:\5-18\Camera\obj\Debug\Camera.RecordForm.resources
+F:\5-18\Camera\obj\Debug\Camera.csproj.GenerateResource.Cache
+F:\5-18\Camera\obj\Debug\Camera.dll
+F:\5-18\Camera\obj\Debug\Camera.pdb
+C:\Users\Administrator\Desktop\5-18\Camera\bin\Camera.dll
+C:\Users\Administrator\Desktop\5-18\Camera\bin\Camera.pdb
+C:\Users\Administrator\Desktop\5-18\Camera\bin\Newtonsoft.Json.dll
+C:\Users\Administrator\Desktop\5-18\Camera\bin\Newtonsoft.Json.xml
+C:\Users\Administrator\Desktop\5-18\Camera\obj\Debug\Camera.elevatorinfo.resources
+C:\Users\Administrator\Desktop\5-18\Camera\obj\Debug\Camera.Information.resources
+C:\Users\Administrator\Desktop\5-18\Camera\obj\Debug\Camera.Properties.Resources.resources
+C:\Users\Administrator\Desktop\5-18\Camera\obj\Debug\Camera.realview.resources
+C:\Users\Administrator\Desktop\5-18\Camera\obj\Debug\Camera.RecordForm.resources
+C:\Users\Administrator\Desktop\5-18\Camera\obj\Debug\Camera.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\5-18\Camera\obj\Debug\Camera.dll
+C:\Users\Administrator\Desktop\5-18\Camera\obj\Debug\Camera.pdb
+E:\6-8\Camera\bin\Camera.dll
+E:\6-8\Camera\bin\Camera.pdb
+E:\6-8\Camera\bin\Newtonsoft.Json.dll
+E:\6-8\Camera\bin\Newtonsoft.Json.xml
+E:\6-8\Camera\obj\Debug\Camera.csprojResolveAssemblyReference.cache
+E:\6-8\Camera\obj\Debug\Camera.elevatorinfo.resources
+E:\6-8\Camera\obj\Debug\Camera.Information.resources
+E:\6-8\Camera\obj\Debug\Camera.Properties.Resources.resources
+E:\6-8\Camera\obj\Debug\Camera.realview.resources
+E:\6-8\Camera\obj\Debug\Camera.RecordForm.resources
+E:\6-8\Camera\obj\Debug\Camera.csproj.GenerateResource.Cache
+E:\6-8\Camera\obj\Debug\Camera.dll
+E:\6-8\Camera\obj\Debug\Camera.pdb
+F:\6-8\Camera\bin\Camera.dll
+F:\6-8\Camera\bin\Camera.pdb
+F:\6-8\Camera\bin\Newtonsoft.Json.dll
+F:\6-8\Camera\bin\Newtonsoft.Json.xml
+F:\6-8\Camera\obj\Debug\Camera.elevatorinfo.resources
+F:\6-8\Camera\obj\Debug\Camera.Information.resources
+F:\6-8\Camera\obj\Debug\Camera.Properties.Resources.resources
+F:\6-8\Camera\obj\Debug\Camera.realview.resources
+F:\6-8\Camera\obj\Debug\Camera.RecordForm.resources
+F:\6-8\Camera\obj\Debug\Camera.WrongInformation.resources
+F:\6-8\Camera\obj\Debug\Camera.csproj.GenerateResource.Cache
+F:\6-8\Camera\obj\Debug\Camera.dll
+F:\6-8\Camera\obj\Debug\Camera.pdb
+F:\6-8\Camera\bin\QRCoder.dll
+F:\6-8\Camera\bin\UnityEngine.dll
+F:\6-8\Camera\obj\Debug\Camera.csprojResolveAssemblyReference.cache
+D:\working\hly\6-8\6-8\Camera\bin\Camera.dll
+D:\working\hly\6-8\6-8\Camera\bin\Camera.pdb
+D:\working\hly\6-8\6-8\Camera\bin\Newtonsoft.Json.dll
+D:\working\hly\6-8\6-8\Camera\bin\QRCoder.dll
+D:\working\hly\6-8\6-8\Camera\bin\UnityEngine.dll
+D:\working\hly\6-8\6-8\Camera\bin\Newtonsoft.Json.xml
+D:\working\hly\6-8\6-8\Camera\obj\Debug\Camera.csprojResolveAssemblyReference.cache
+D:\working\hly\6-8\6-8\Camera\obj\Debug\Camera.elevatorinfo.resources
+D:\working\hly\6-8\6-8\Camera\obj\Debug\Camera.Information.resources
+D:\working\hly\6-8\6-8\Camera\obj\Debug\Camera.Properties.Resources.resources
+D:\working\hly\6-8\6-8\Camera\obj\Debug\Camera.realview.resources
+D:\working\hly\6-8\6-8\Camera\obj\Debug\Camera.RecordForm.resources
+D:\working\hly\6-8\6-8\Camera\obj\Debug\Camera.WrongInformation.resources
+D:\working\hly\6-8\6-8\Camera\obj\Debug\Camera.csproj.GenerateResource.Cache
+D:\working\hly\6-8\6-8\Camera\obj\Debug\Camera.dll
+D:\working\hly\6-8\6-8\Camera\obj\Debug\Camera.pdb
+F:\6-8_3_with_elevator_status\Camera\bin\Camera.dll
+F:\6-8_3_with_elevator_status\Camera\bin\Camera.pdb
+F:\6-8_3_with_elevator_status\Camera\bin\Newtonsoft.Json.dll
+F:\6-8_3_with_elevator_status\Camera\bin\QRCoder.dll
+F:\6-8_3_with_elevator_status\Camera\bin\UnityEngine.dll
+F:\6-8_3_with_elevator_status\Camera\bin\Newtonsoft.Json.xml
+F:\6-8_3_with_elevator_status\Camera\obj\Debug\Camera.csprojResolveAssemblyReference.cache
+F:\6-8_3_with_elevator_status\Camera\obj\Debug\Camera.elevatorinfo.resources
+F:\6-8_3_with_elevator_status\Camera\obj\Debug\Camera.Information.resources
+F:\6-8_3_with_elevator_status\Camera\obj\Debug\Camera.Properties.Resources.resources
+F:\6-8_3_with_elevator_status\Camera\obj\Debug\Camera.realview.resources
+F:\6-8_3_with_elevator_status\Camera\obj\Debug\Camera.RecordForm.resources
+F:\6-8_3_with_elevator_status\Camera\obj\Debug\Camera.WrongInformation.resources
+F:\6-8_3_with_elevator_status\Camera\obj\Debug\Camera.csproj.GenerateResource.Cache
+F:\6-8_3_with_elevator_status\Camera\obj\Debug\Camera.dll
+F:\6-8_3_with_elevator_status\Camera\obj\Debug\Camera.pdb
+E:\6-8_3_with_elevator_status\Camera\bin\Camera.dll
+E:\6-8_3_with_elevator_status\Camera\bin\Camera.pdb
+E:\6-8_3_with_elevator_status\Camera\bin\Newtonsoft.Json.dll
+E:\6-8_3_with_elevator_status\Camera\bin\QRCoder.dll
+E:\6-8_3_with_elevator_status\Camera\bin\UnityEngine.dll
+E:\6-8_3_with_elevator_status\Camera\bin\Newtonsoft.Json.xml
+E:\6-8_3_with_elevator_status\Camera\obj\Debug\Camera.csprojResolveAssemblyReference.cache
+E:\6-8_3_with_elevator_status\Camera\obj\Debug\Camera.elevatorinfo.resources
+E:\6-8_3_with_elevator_status\Camera\obj\Debug\Camera.Information.resources
+E:\6-8_3_with_elevator_status\Camera\obj\Debug\Camera.Properties.Resources.resources
+E:\6-8_3_with_elevator_status\Camera\obj\Debug\Camera.realview.resources
+E:\6-8_3_with_elevator_status\Camera\obj\Debug\Camera.RecordForm.resources
+E:\6-8_3_with_elevator_status\Camera\obj\Debug\Camera.WrongInformation.resources
+E:\6-8_3_with_elevator_status\Camera\obj\Debug\Camera.csproj.GenerateResource.Cache
+E:\6-8_3_with_elevator_status\Camera\obj\Debug\Camera.dll
+E:\6-8_3_with_elevator_status\Camera\obj\Debug\Camera.pdb

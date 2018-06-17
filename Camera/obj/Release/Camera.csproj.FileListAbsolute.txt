@@ -1,0 +1,8 @@
+D:\Csdk\上铁电梯\WindowsFormsApplication1\WindowsFormsApplication1\Camera\bin\Release\Camera.dll
+D:\Csdk\上铁电梯\WindowsFormsApplication1\WindowsFormsApplication1\Camera\bin\Release\Camera.pdb
+D:\Csdk\上铁电梯\WindowsFormsApplication1\WindowsFormsApplication1\Camera\obj\Release\Camera.elevatorinfo.resources
+D:\Csdk\上铁电梯\WindowsFormsApplication1\WindowsFormsApplication1\Camera\obj\Release\Camera.Properties.Resources.resources
+D:\Csdk\上铁电梯\WindowsFormsApplication1\WindowsFormsApplication1\Camera\obj\Release\Camera.realview.resources
+D:\Csdk\上铁电梯\WindowsFormsApplication1\WindowsFormsApplication1\Camera\obj\Release\Camera.csproj.GenerateResource.Cache
+D:\Csdk\上铁电梯\WindowsFormsApplication1\WindowsFormsApplication1\Camera\obj\Release\Camera.dll
+D:\Csdk\上铁电梯\WindowsFormsApplication1\WindowsFormsApplication1\Camera\obj\Release\Camera.pdb

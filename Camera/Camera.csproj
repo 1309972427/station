@@ -1,0 +1,276 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{7E0DB499-47CD-4699-AB96-7710F0E553BE}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Camera</RootNamespace>
+    <AssemblyName>Camera</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject />
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x86'">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <DebugType>full</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x86'">
+    <OutputPath>bin\x86\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <Optimize>true</Optimize>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Newtonsoft.Json, Version=11.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <HintPath>..\packages\Newtonsoft.Json.11.0.1\lib\net45\Newtonsoft.Json.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="QRCoder, Version=1.3.3.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\QRCoder.1.3.3\lib\net40\QRCoder.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="UnityEngine, Version=0.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\QRCoder.1.3.3\lib\net40\UnityEngine.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="audio.cs" />
+    <Compile Include="DES.cs" />
+    <Compile Include="elevatorinfo.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="elevatorinfo.Designer.cs">
+      <DependentUpon>elevatorinfo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Information.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Information.designer.cs">
+      <DependentUpon>Information.cs</DependentUpon>
+    </Compile>
+    <Compile Include="InformationJson.cs" />
+    <Compile Include="Log.cs" />
+    <Compile Include="PlayCtrl.cs" />
+    <Compile Include="realview.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="realview.Designer.cs">
+      <DependentUpon>realview.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CHCNetSDK.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="QTtool.cs" />
+    <Compile Include="RecordForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RecordForm.designer.cs">
+      <DependentUpon>RecordForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="recordJson.cs" />
+    <Compile Include="TcpConnection.cs" />
+    <Compile Include="WrongInformation.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="WrongInformation.Designer.cs">
+      <DependentUpon>WrongInformation.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="elevatorinfo.resx">
+      <DependentUpon>elevatorinfo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Information.resx">
+      <DependentUpon>Information.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="realview.resx">
+      <DependentUpon>realview.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RecordForm.resx">
+      <DependentUpon>RecordForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WrongInformation.resx">
+      <DependentUpon>WrongInformation.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1484659821.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ALARM2.WAV" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ALARM3.WAV" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ALARM4.WAV" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ALARM5.WAV" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ALARM6.WAV" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ALARM7.WAV" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ALARM8.WAV" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ALARM9.WAV" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BASE.WAV" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BEEP1.WAV" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BEEP2.WAV" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BEEP3.WAV" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BEOP.WAV" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BLEEP1_S.WAV" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BUZZ1.WAV" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BUZZ2.WAV" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BUZZ3.WAV" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BUZZ4.WAV" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BUZZ5.WAV" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\CHOOCHOO.WAV" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ENGACK.WAV" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\FERYHORN.WAV" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\HONK.WAV" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\HOOK1.WAV" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\LUNADPLY.WAV" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\OBNOWHS1.WAV" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\SIREN1.WAV" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\SIREN2.WAV" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\SIREN3.WAV" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\SIREN4.WAV" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\STANDIN.WAV" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\STEAMBLO.WAV" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\TRAINWST.WAV" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\UNIT.WAV" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ALARM1.WAV" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

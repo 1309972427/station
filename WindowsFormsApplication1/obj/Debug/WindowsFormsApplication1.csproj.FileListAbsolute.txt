@@ -1,0 +1,505 @@
+c:\users\tw\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+c:\users\tw\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+c:\users\tw\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+c:\users\tw\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+c:\users\tw\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+c:\users\tw\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+c:\users\tw\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+c:\users\tw\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+c:\users\tw\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\tw\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\JHQzxSystemDB.mdf
+C:\Users\tw\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\JHQzxSystemDB_log.ldf
+C:\Users\tw\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Demo.mdf
+C:\Users\tw\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Demo_log.ldf
+C:\Users\tw\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\tw\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form3.resources
+C:\Users\tw\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.elevatorinfo.resources
+C:\Users\tw\Documents\Visual Studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Camera.dll
+C:\Users\tw\Documents\Visual Studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Camera.pdb
+C:\Users\xlqq\Documents\Tencent Files\919918865\FileRecv\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\xlqq\Documents\Tencent Files\919918865\FileRecv\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\xlqq\Documents\Tencent Files\919918865\FileRecv\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\xlqq\Documents\Tencent Files\919918865\FileRecv\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\xlqq\Documents\Tencent Files\919918865\FileRecv\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.elevatorinfo.resources
+C:\Users\xlqq\Documents\Tencent Files\919918865\FileRecv\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\xlqq\Documents\Tencent Files\919918865\FileRecv\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\xlqq\Documents\Tencent Files\919918865\FileRecv\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form3.resources
+C:\Users\xlqq\Documents\Tencent Files\919918865\FileRecv\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\xlqq\Documents\Tencent Files\919918865\FileRecv\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\xlqq\Documents\Tencent Files\919918865\FileRecv\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Demo.mdf
+C:\Users\xlqq\Documents\Tencent Files\919918865\FileRecv\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Demo_log.ldf
+C:\Users\xlqq\Documents\Tencent Files\919918865\FileRecv\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\JHQzxSystemDB.mdf
+C:\Users\xlqq\Documents\Tencent Files\919918865\FileRecv\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\JHQzxSystemDB_log.ldf
+C:\Users\xlqq\Documents\Tencent Files\919918865\FileRecv\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\xlqq\Documents\Tencent Files\919918865\FileRecv\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\xlqq\Documents\Tencent Files\919918865\FileRecv\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Camera.dll
+C:\Users\xlqq\Documents\Tencent Files\919918865\FileRecv\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Camera.pdb
+D:\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+D:\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Demo.mdf
+D:\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Demo_log.ldf
+D:\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\JHQzxSystemDB.mdf
+D:\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\JHQzxSystemDB_log.ldf
+D:\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Camera.dll
+D:\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Camera.pdb
+D:\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+D:\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.elevatorinfo.resources
+D:\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+D:\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form3.resources
+D:\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+D:\Csdk\上铁电梯\WindowsFormsApplication1\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\Csdk\上铁电梯\WindowsFormsApplication1\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+D:\Csdk\上铁电梯\WindowsFormsApplication1\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+D:\Csdk\上铁电梯\WindowsFormsApplication1\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\Csdk\上铁电梯\WindowsFormsApplication1\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+D:\Csdk\上铁电梯\WindowsFormsApplication1\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form3.resources
+D:\Csdk\上铁电梯\WindowsFormsApplication1\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\Csdk\上铁电梯\WindowsFormsApplication1\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+E:\devwork\Csdk\上铁电梯\WindowsFormsApplication1\WindowsFormsApplication1\bin\Demo.mdf
+E:\devwork\Csdk\上铁电梯\WindowsFormsApplication1\WindowsFormsApplication1\bin\Demo_log.ldf
+E:\devwork\Csdk\上铁电梯\WindowsFormsApplication1\WindowsFormsApplication1\bin\JHQzxSystemDB.mdf
+E:\devwork\Csdk\上铁电梯\WindowsFormsApplication1\WindowsFormsApplication1\bin\JHQzxSystemDB_log.ldf
+E:\devwork\Csdk\上铁电梯\WindowsFormsApplication1\WindowsFormsApplication1\bin\WindowsFormsApplication1.exe.config
+E:\devwork\Csdk\上铁电梯\WindowsFormsApplication1\WindowsFormsApplication1\bin\WindowsFormsApplication1.exe
+E:\devwork\Csdk\上铁电梯\WindowsFormsApplication1\WindowsFormsApplication1\bin\WindowsFormsApplication1.pdb
+E:\devwork\Csdk\上铁电梯\WindowsFormsApplication1\WindowsFormsApplication1\bin\Camera.dll
+E:\devwork\Csdk\上铁电梯\WindowsFormsApplication1\WindowsFormsApplication1\bin\Camera.pdb
+E:\devwork\Csdk\上铁电梯\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+E:\devwork\Csdk\上铁电梯\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+E:\devwork\Csdk\上铁电梯\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+E:\devwork\Csdk\上铁电梯\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form3.resources
+E:\devwork\Csdk\上铁电梯\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\devwork\Csdk\上铁电梯\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+E:\devwork\Csdk\上铁电梯\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+E:\devwork\Csdk\上铁电梯\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+E:\devwork\Csdk\上铁电梯\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.CoreCompileInputs.cache
+D:\Csdk\上铁电梯\WindowsFormsApplication1\WindowsFormsApplication1\WindowsFormsApplication1\bin\Demo.mdf
+D:\Csdk\上铁电梯\WindowsFormsApplication1\WindowsFormsApplication1\WindowsFormsApplication1\bin\Demo_log.ldf
+D:\Csdk\上铁电梯\WindowsFormsApplication1\WindowsFormsApplication1\WindowsFormsApplication1\bin\JHQzxSystemDB.mdf
+D:\Csdk\上铁电梯\WindowsFormsApplication1\WindowsFormsApplication1\WindowsFormsApplication1\bin\JHQzxSystemDB_log.ldf
+D:\Csdk\上铁电梯\WindowsFormsApplication1\WindowsFormsApplication1\WindowsFormsApplication1\bin\WindowsFormsApplication1.exe.config
+D:\Csdk\上铁电梯\WindowsFormsApplication1\WindowsFormsApplication1\WindowsFormsApplication1\bin\WindowsFormsApplication1.exe
+D:\Csdk\上铁电梯\WindowsFormsApplication1\WindowsFormsApplication1\WindowsFormsApplication1\bin\WindowsFormsApplication1.pdb
+D:\Csdk\上铁电梯\WindowsFormsApplication1\WindowsFormsApplication1\WindowsFormsApplication1\bin\Camera.dll
+D:\Csdk\上铁电梯\WindowsFormsApplication1\WindowsFormsApplication1\WindowsFormsApplication1\bin\Camera.pdb
+C:\Users\fuyon\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Demo.mdf
+C:\Users\fuyon\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Demo_log.ldf
+C:\Users\fuyon\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\JHQzxSystemDB.mdf
+C:\Users\fuyon\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\JHQzxSystemDB_log.ldf
+C:\Users\fuyon\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\WindowsFormsApplication1.exe.config
+C:\Users\fuyon\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\WindowsFormsApplication1.exe
+C:\Users\fuyon\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\WindowsFormsApplication1.pdb
+C:\Users\fuyon\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Camera.dll
+C:\Users\fuyon\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Camera.pdb
+C:\Users\fuyon\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\fuyon\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\fuyon\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\fuyon\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form3.resources
+C:\Users\fuyon\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\fuyon\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\fuyon\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\fuyon\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+F:\working\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+F:\working\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+F:\working\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+F:\working\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form3.resources
+F:\working\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+F:\working\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+F:\working\WindowsFormsApplication1\WindowsFormsApplication1\bin\Demo.mdf
+F:\working\WindowsFormsApplication1\WindowsFormsApplication1\bin\Demo_log.ldf
+F:\working\WindowsFormsApplication1\WindowsFormsApplication1\bin\JHQzxSystemDB.mdf
+F:\working\WindowsFormsApplication1\WindowsFormsApplication1\bin\JHQzxSystemDB_log.ldf
+F:\working\WindowsFormsApplication1\WindowsFormsApplication1\bin\WindowsFormsApplication1.exe.config
+F:\working\WindowsFormsApplication1\WindowsFormsApplication1\bin\WindowsFormsApplication1.exe
+F:\working\WindowsFormsApplication1\WindowsFormsApplication1\bin\WindowsFormsApplication1.pdb
+F:\working\WindowsFormsApplication1\WindowsFormsApplication1\bin\Camera.dll
+F:\working\WindowsFormsApplication1\WindowsFormsApplication1\bin\Camera.pdb
+F:\working\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+F:\working\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Administrator\Desktop\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Administrator\Desktop\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\Administrator\Desktop\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form3.resources
+C:\Users\Administrator\Desktop\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Administrator\Desktop\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\WindowsFormsApplication1\bin\Demo.mdf
+C:\Users\Administrator\Desktop\WindowsFormsApplication1\bin\Demo_log.ldf
+C:\Users\Administrator\Desktop\WindowsFormsApplication1\bin\JHQzxSystemDB.mdf
+C:\Users\Administrator\Desktop\WindowsFormsApplication1\bin\JHQzxSystemDB_log.ldf
+C:\Users\Administrator\Desktop\WindowsFormsApplication1\bin\WindowsFormsApplication1.exe.config
+C:\Users\Administrator\Desktop\WindowsFormsApplication1\bin\WindowsFormsApplication1.exe
+C:\Users\Administrator\Desktop\WindowsFormsApplication1\bin\WindowsFormsApplication1.pdb
+C:\Users\Administrator\Desktop\WindowsFormsApplication1\bin\Camera.dll
+C:\Users\Administrator\Desktop\WindowsFormsApplication1\bin\Camera.pdb
+C:\Users\Administrator\Desktop\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Administrator\Desktop\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Administrator\Desktop\南京上铁1-16\WindowsFormsApplication1\bin\Demo.mdf
+C:\Users\Administrator\Desktop\南京上铁1-16\WindowsFormsApplication1\bin\Demo_log.ldf
+C:\Users\Administrator\Desktop\南京上铁1-16\WindowsFormsApplication1\bin\JHQzxSystemDB.mdf
+C:\Users\Administrator\Desktop\南京上铁1-16\WindowsFormsApplication1\bin\JHQzxSystemDB_log.ldf
+C:\Users\Administrator\Desktop\南京上铁1-16\WindowsFormsApplication1\bin\WindowsFormsApplication1.exe.config
+C:\Users\Administrator\Desktop\南京上铁1-16\WindowsFormsApplication1\bin\WindowsFormsApplication1.exe
+C:\Users\Administrator\Desktop\南京上铁1-16\WindowsFormsApplication1\bin\WindowsFormsApplication1.pdb
+C:\Users\Administrator\Desktop\南京上铁1-16\WindowsFormsApplication1\bin\Camera.dll
+C:\Users\Administrator\Desktop\南京上铁1-16\WindowsFormsApplication1\bin\Camera.pdb
+C:\Users\Administrator\Desktop\南京上铁1-16\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\南京上铁1-16\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Administrator\Desktop\南京上铁1-16\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\Administrator\Desktop\南京上铁1-16\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form3.resources
+C:\Users\Administrator\Desktop\南京上铁1-16\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Administrator\Desktop\南京上铁1-16\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\南京上铁1-16\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Administrator\Desktop\南京上铁1-16\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Administrator\Desktop\softs\南京上铁1-16\WindowsFormsApplication1\bin\Demo.mdf
+C:\Users\Administrator\Desktop\softs\南京上铁1-16\WindowsFormsApplication1\bin\Demo_log.ldf
+C:\Users\Administrator\Desktop\softs\南京上铁1-16\WindowsFormsApplication1\bin\JHQzxSystemDB.mdf
+C:\Users\Administrator\Desktop\softs\南京上铁1-16\WindowsFormsApplication1\bin\JHQzxSystemDB_log.ldf
+C:\Users\Administrator\Desktop\softs\南京上铁1-16\WindowsFormsApplication1\bin\WindowsFormsApplication1.exe.config
+C:\Users\Administrator\Desktop\softs\南京上铁1-16\WindowsFormsApplication1\bin\WindowsFormsApplication1.exe
+C:\Users\Administrator\Desktop\softs\南京上铁1-16\WindowsFormsApplication1\bin\WindowsFormsApplication1.pdb
+C:\Users\Administrator\Desktop\softs\南京上铁1-16\WindowsFormsApplication1\bin\Camera.dll
+C:\Users\Administrator\Desktop\softs\南京上铁1-16\WindowsFormsApplication1\bin\Camera.pdb
+C:\Users\Administrator\Desktop\softs\南京上铁1-16\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\softs\南京上铁1-16\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Administrator\Desktop\softs\南京上铁1-16\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\Administrator\Desktop\softs\南京上铁1-16\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form3.resources
+C:\Users\Administrator\Desktop\softs\南京上铁1-16\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Administrator\Desktop\softs\南京上铁1-16\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\softs\南京上铁1-16\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Administrator\Desktop\softs\南京上铁1-16\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Administrator\Desktop\DDDD\南京上铁2-6\WindowsFormsApplication1\bin\Demo.mdf
+C:\Users\Administrator\Desktop\DDDD\南京上铁2-6\WindowsFormsApplication1\bin\Demo_log.ldf
+C:\Users\Administrator\Desktop\DDDD\南京上铁2-6\WindowsFormsApplication1\bin\JHQzxSystemDB.mdf
+C:\Users\Administrator\Desktop\DDDD\南京上铁2-6\WindowsFormsApplication1\bin\JHQzxSystemDB_log.ldf
+C:\Users\Administrator\Desktop\DDDD\南京上铁2-6\WindowsFormsApplication1\bin\WindowsFormsApplication1.exe.config
+C:\Users\Administrator\Desktop\DDDD\南京上铁2-6\WindowsFormsApplication1\bin\WindowsFormsApplication1.exe
+C:\Users\Administrator\Desktop\DDDD\南京上铁2-6\WindowsFormsApplication1\bin\WindowsFormsApplication1.pdb
+C:\Users\Administrator\Desktop\DDDD\南京上铁2-6\WindowsFormsApplication1\bin\Camera.dll
+C:\Users\Administrator\Desktop\DDDD\南京上铁2-6\WindowsFormsApplication1\bin\Camera.pdb
+C:\Users\Administrator\Desktop\DDDD\南京上铁2-6\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\DDDD\南京上铁2-6\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Administrator\Desktop\DDDD\南京上铁2-6\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\Administrator\Desktop\DDDD\南京上铁2-6\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form3.resources
+C:\Users\Administrator\Desktop\DDDD\南京上铁2-6\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Administrator\Desktop\DDDD\南京上铁2-6\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\DDDD\南京上铁2-6\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Administrator\Desktop\DDDD\南京上铁2-6\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\pc\Desktop\njst  3-17\南京上铁3-17\WindowsFormsApplication1\bin\Demo.mdf
+C:\Users\pc\Desktop\njst  3-17\南京上铁3-17\WindowsFormsApplication1\bin\Demo_log.ldf
+C:\Users\pc\Desktop\njst  3-17\南京上铁3-17\WindowsFormsApplication1\bin\JHQzxSystemDB.mdf
+C:\Users\pc\Desktop\njst  3-17\南京上铁3-17\WindowsFormsApplication1\bin\JHQzxSystemDB_log.ldf
+C:\Users\pc\Desktop\njst  3-17\南京上铁3-17\WindowsFormsApplication1\bin\WindowsFormsApplication1.exe.config
+C:\Users\pc\Desktop\njst  3-17\南京上铁3-17\WindowsFormsApplication1\bin\WindowsFormsApplication1.exe
+C:\Users\pc\Desktop\njst  3-17\南京上铁3-17\WindowsFormsApplication1\bin\WindowsFormsApplication1.pdb
+C:\Users\pc\Desktop\njst  3-17\南京上铁3-17\WindowsFormsApplication1\bin\Camera.dll
+C:\Users\pc\Desktop\njst  3-17\南京上铁3-17\WindowsFormsApplication1\bin\Camera.pdb
+C:\Users\pc\Desktop\njst  3-17\南京上铁3-17\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\pc\Desktop\njst  3-17\南京上铁3-17\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\pc\Desktop\njst  3-17\南京上铁3-17\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\pc\Desktop\njst  3-17\南京上铁3-17\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form3.resources
+C:\Users\pc\Desktop\njst  3-17\南京上铁3-17\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\pc\Desktop\njst  3-17\南京上铁3-17\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\pc\Desktop\njst  3-17\南京上铁3-17\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\pc\Desktop\njst  3-17\南京上铁3-17\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+F:\njst  3-17\南京上铁3-17\WindowsFormsApplication1\bin\Demo.mdf
+F:\njst  3-17\南京上铁3-17\WindowsFormsApplication1\bin\Demo_log.ldf
+F:\njst  3-17\南京上铁3-17\WindowsFormsApplication1\bin\JHQzxSystemDB.mdf
+F:\njst  3-17\南京上铁3-17\WindowsFormsApplication1\bin\JHQzxSystemDB_log.ldf
+F:\njst  3-17\南京上铁3-17\WindowsFormsApplication1\bin\WindowsFormsApplication1.exe.config
+F:\njst  3-17\南京上铁3-17\WindowsFormsApplication1\bin\WindowsFormsApplication1.exe
+F:\njst  3-17\南京上铁3-17\WindowsFormsApplication1\bin\WindowsFormsApplication1.pdb
+F:\njst  3-17\南京上铁3-17\WindowsFormsApplication1\bin\Camera.dll
+F:\njst  3-17\南京上铁3-17\WindowsFormsApplication1\bin\Newtonsoft.Json.dll
+F:\njst  3-17\南京上铁3-17\WindowsFormsApplication1\bin\Camera.pdb
+F:\njst  3-17\南京上铁3-17\WindowsFormsApplication1\bin\Newtonsoft.Json.xml
+F:\njst  3-17\南京上铁3-17\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+F:\njst  3-17\南京上铁3-17\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+F:\njst  3-17\南京上铁3-17\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+F:\njst  3-17\南京上铁3-17\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form3.resources
+F:\njst  3-17\南京上铁3-17\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+F:\njst  3-17\南京上铁3-17\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+F:\njst  3-17\南京上铁3-17\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+F:\njst  3-17\南京上铁3-17\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Administrator\Desktop\3-17\WindowsFormsApplication1\bin\Demo.mdf
+C:\Users\Administrator\Desktop\3-17\WindowsFormsApplication1\bin\Demo_log.ldf
+C:\Users\Administrator\Desktop\3-17\WindowsFormsApplication1\bin\JHQzxSystemDB.mdf
+C:\Users\Administrator\Desktop\3-17\WindowsFormsApplication1\bin\JHQzxSystemDB_log.ldf
+C:\Users\Administrator\Desktop\3-17\WindowsFormsApplication1\bin\WindowsFormsApplication1.exe.config
+C:\Users\Administrator\Desktop\3-17\WindowsFormsApplication1\bin\WindowsFormsApplication1.exe
+C:\Users\Administrator\Desktop\3-17\WindowsFormsApplication1\bin\WindowsFormsApplication1.pdb
+C:\Users\Administrator\Desktop\3-17\WindowsFormsApplication1\bin\Camera.dll
+C:\Users\Administrator\Desktop\3-17\WindowsFormsApplication1\bin\Newtonsoft.Json.dll
+C:\Users\Administrator\Desktop\3-17\WindowsFormsApplication1\bin\Camera.pdb
+C:\Users\Administrator\Desktop\3-17\WindowsFormsApplication1\bin\Newtonsoft.Json.xml
+C:\Users\Administrator\Desktop\3-17\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\3-17\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Administrator\Desktop\3-17\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\Administrator\Desktop\3-17\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form3.resources
+C:\Users\Administrator\Desktop\3-17\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Administrator\Desktop\3-17\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\3-17\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Administrator\Desktop\3-17\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Administrator\Desktop\3-24\WindowsFormsApplication1\bin\Demo.mdf
+C:\Users\Administrator\Desktop\3-24\WindowsFormsApplication1\bin\Demo_log.ldf
+C:\Users\Administrator\Desktop\3-24\WindowsFormsApplication1\bin\JHQzxSystemDB.mdf
+C:\Users\Administrator\Desktop\3-24\WindowsFormsApplication1\bin\JHQzxSystemDB_log.ldf
+C:\Users\Administrator\Desktop\3-24\WindowsFormsApplication1\bin\WindowsFormsApplication1.exe.config
+C:\Users\Administrator\Desktop\3-24\WindowsFormsApplication1\bin\WindowsFormsApplication1.exe
+C:\Users\Administrator\Desktop\3-24\WindowsFormsApplication1\bin\WindowsFormsApplication1.pdb
+C:\Users\Administrator\Desktop\3-24\WindowsFormsApplication1\bin\Camera.dll
+C:\Users\Administrator\Desktop\3-24\WindowsFormsApplication1\bin\Newtonsoft.Json.dll
+C:\Users\Administrator\Desktop\3-24\WindowsFormsApplication1\bin\Camera.pdb
+C:\Users\Administrator\Desktop\3-24\WindowsFormsApplication1\bin\Newtonsoft.Json.xml
+C:\Users\Administrator\Desktop\3-24\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\3-24\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Administrator\Desktop\3-24\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\Administrator\Desktop\3-24\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form3.resources
+C:\Users\Administrator\Desktop\3-24\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Administrator\Desktop\3-24\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\3-24\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Administrator\Desktop\3-24\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+E:\3-24\WindowsFormsApplication1\bin\Demo.mdf
+E:\3-24\WindowsFormsApplication1\bin\Demo_log.ldf
+E:\3-24\WindowsFormsApplication1\bin\JHQzxSystemDB.mdf
+E:\3-24\WindowsFormsApplication1\bin\JHQzxSystemDB_log.ldf
+E:\3-24\WindowsFormsApplication1\bin\WindowsFormsApplication1.exe.config
+E:\3-24\WindowsFormsApplication1\bin\WindowsFormsApplication1.exe
+E:\3-24\WindowsFormsApplication1\bin\WindowsFormsApplication1.pdb
+E:\3-24\WindowsFormsApplication1\bin\Camera.dll
+E:\3-24\WindowsFormsApplication1\bin\Newtonsoft.Json.dll
+E:\3-24\WindowsFormsApplication1\bin\Camera.pdb
+E:\3-24\WindowsFormsApplication1\bin\Newtonsoft.Json.xml
+E:\3-24\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+E:\3-24\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+E:\3-24\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+E:\3-24\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form3.resources
+E:\3-24\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\3-24\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+E:\3-24\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+E:\3-24\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+F:\3-24\WindowsFormsApplication1\bin\Demo.mdf
+F:\3-24\WindowsFormsApplication1\bin\Demo_log.ldf
+F:\3-24\WindowsFormsApplication1\bin\JHQzxSystemDB.mdf
+F:\3-24\WindowsFormsApplication1\bin\JHQzxSystemDB_log.ldf
+F:\3-24\WindowsFormsApplication1\bin\WindowsFormsApplication1.exe.config
+F:\3-24\WindowsFormsApplication1\bin\WindowsFormsApplication1.exe
+F:\3-24\WindowsFormsApplication1\bin\WindowsFormsApplication1.pdb
+F:\3-24\WindowsFormsApplication1\bin\Camera.dll
+F:\3-24\WindowsFormsApplication1\bin\Newtonsoft.Json.dll
+F:\3-24\WindowsFormsApplication1\bin\Camera.pdb
+F:\3-24\WindowsFormsApplication1\bin\Newtonsoft.Json.xml
+F:\3-24\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+F:\3-24\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+F:\3-24\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+F:\3-24\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form3.resources
+F:\3-24\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+F:\3-24\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+F:\3-24\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+F:\3-24\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+D:\3-24\WindowsFormsApplication1\bin\Demo.mdf
+D:\3-24\WindowsFormsApplication1\bin\Demo_log.ldf
+D:\3-24\WindowsFormsApplication1\bin\JHQzxSystemDB.mdf
+D:\3-24\WindowsFormsApplication1\bin\JHQzxSystemDB_log.ldf
+D:\3-24\WindowsFormsApplication1\bin\WindowsFormsApplication1.exe.config
+D:\3-24\WindowsFormsApplication1\bin\WindowsFormsApplication1.exe
+D:\3-24\WindowsFormsApplication1\bin\WindowsFormsApplication1.pdb
+D:\3-24\WindowsFormsApplication1\bin\Camera.dll
+D:\3-24\WindowsFormsApplication1\bin\Newtonsoft.Json.dll
+D:\3-24\WindowsFormsApplication1\bin\Camera.pdb
+D:\3-24\WindowsFormsApplication1\bin\Newtonsoft.Json.xml
+D:\3-24\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+D:\3-24\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\3-24\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+D:\3-24\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form3.resources
+D:\3-24\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\3-24\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+D:\3-24\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\3-24\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+E:\5-18\WindowsFormsApplication1\bin\Demo.mdf
+E:\5-18\WindowsFormsApplication1\bin\Demo_log.ldf
+E:\5-18\WindowsFormsApplication1\bin\JHQzxSystemDB.mdf
+E:\5-18\WindowsFormsApplication1\bin\JHQzxSystemDB_log.ldf
+E:\5-18\WindowsFormsApplication1\bin\WindowsFormsApplication1.exe.config
+E:\5-18\WindowsFormsApplication1\bin\WindowsFormsApplication1.exe
+E:\5-18\WindowsFormsApplication1\bin\WindowsFormsApplication1.pdb
+E:\5-18\WindowsFormsApplication1\bin\Camera.dll
+E:\5-18\WindowsFormsApplication1\bin\Newtonsoft.Json.dll
+E:\5-18\WindowsFormsApplication1\bin\Camera.pdb
+E:\5-18\WindowsFormsApplication1\bin\Newtonsoft.Json.xml
+E:\5-18\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+E:\5-18\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+E:\5-18\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+E:\5-18\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form3.resources
+E:\5-18\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\5-18\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+E:\5-18\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+E:\5-18\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+F:\5-18\WindowsFormsApplication1\bin\Demo.mdf
+F:\5-18\WindowsFormsApplication1\bin\Demo_log.ldf
+F:\5-18\WindowsFormsApplication1\bin\JHQzxSystemDB.mdf
+F:\5-18\WindowsFormsApplication1\bin\JHQzxSystemDB_log.ldf
+F:\5-18\WindowsFormsApplication1\bin\WindowsFormsApplication1.exe.config
+F:\5-18\WindowsFormsApplication1\bin\WindowsFormsApplication1.exe
+F:\5-18\WindowsFormsApplication1\bin\WindowsFormsApplication1.pdb
+F:\5-18\WindowsFormsApplication1\bin\Camera.dll
+F:\5-18\WindowsFormsApplication1\bin\Newtonsoft.Json.dll
+F:\5-18\WindowsFormsApplication1\bin\Camera.pdb
+F:\5-18\WindowsFormsApplication1\bin\Newtonsoft.Json.xml
+F:\5-18\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+F:\5-18\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+F:\5-18\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+F:\5-18\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form3.resources
+F:\5-18\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+F:\5-18\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+F:\5-18\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+F:\5-18\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Administrator\Desktop\5-18\WindowsFormsApplication1\bin\Demo.mdf
+C:\Users\Administrator\Desktop\5-18\WindowsFormsApplication1\bin\Demo_log.ldf
+C:\Users\Administrator\Desktop\5-18\WindowsFormsApplication1\bin\JHQzxSystemDB.mdf
+C:\Users\Administrator\Desktop\5-18\WindowsFormsApplication1\bin\JHQzxSystemDB_log.ldf
+C:\Users\Administrator\Desktop\5-18\WindowsFormsApplication1\bin\WindowsFormsApplication1.exe.config
+C:\Users\Administrator\Desktop\5-18\WindowsFormsApplication1\bin\WindowsFormsApplication1.exe
+C:\Users\Administrator\Desktop\5-18\WindowsFormsApplication1\bin\WindowsFormsApplication1.pdb
+C:\Users\Administrator\Desktop\5-18\WindowsFormsApplication1\bin\Camera.dll
+C:\Users\Administrator\Desktop\5-18\WindowsFormsApplication1\bin\Newtonsoft.Json.dll
+C:\Users\Administrator\Desktop\5-18\WindowsFormsApplication1\bin\Camera.pdb
+C:\Users\Administrator\Desktop\5-18\WindowsFormsApplication1\bin\Newtonsoft.Json.xml
+C:\Users\Administrator\Desktop\5-18\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\5-18\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Administrator\Desktop\5-18\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\Administrator\Desktop\5-18\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form3.resources
+C:\Users\Administrator\Desktop\5-18\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Administrator\Desktop\5-18\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\5-18\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Administrator\Desktop\5-18\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+E:\6-8\WindowsFormsApplication1\bin\Demo.mdf
+E:\6-8\WindowsFormsApplication1\bin\Demo_log.ldf
+E:\6-8\WindowsFormsApplication1\bin\JHQzxSystemDB.mdf
+E:\6-8\WindowsFormsApplication1\bin\JHQzxSystemDB_log.ldf
+E:\6-8\WindowsFormsApplication1\bin\WindowsFormsApplication1.exe.config
+E:\6-8\WindowsFormsApplication1\bin\WindowsFormsApplication1.exe
+E:\6-8\WindowsFormsApplication1\bin\WindowsFormsApplication1.pdb
+E:\6-8\WindowsFormsApplication1\bin\Camera.dll
+E:\6-8\WindowsFormsApplication1\bin\Newtonsoft.Json.dll
+E:\6-8\WindowsFormsApplication1\bin\Camera.pdb
+E:\6-8\WindowsFormsApplication1\bin\Newtonsoft.Json.xml
+E:\6-8\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+E:\6-8\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+E:\6-8\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+E:\6-8\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form3.resources
+E:\6-8\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\6-8\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+E:\6-8\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+E:\6-8\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+F:\6-8\WindowsFormsApplication1\bin\Demo.mdf
+F:\6-8\WindowsFormsApplication1\bin\Demo_log.ldf
+F:\6-8\WindowsFormsApplication1\bin\JHQzxSystemDB.mdf
+F:\6-8\WindowsFormsApplication1\bin\JHQzxSystemDB_log.ldf
+F:\6-8\WindowsFormsApplication1\bin\WindowsFormsApplication1.exe.config
+F:\6-8\WindowsFormsApplication1\bin\WindowsFormsApplication1.exe
+F:\6-8\WindowsFormsApplication1\bin\WindowsFormsApplication1.pdb
+F:\6-8\WindowsFormsApplication1\bin\Camera.dll
+F:\6-8\WindowsFormsApplication1\bin\Newtonsoft.Json.dll
+F:\6-8\WindowsFormsApplication1\bin\Camera.pdb
+F:\6-8\WindowsFormsApplication1\bin\Newtonsoft.Json.xml
+F:\6-8\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+F:\6-8\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+F:\6-8\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+F:\6-8\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form3.resources
+F:\6-8\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+F:\6-8\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+F:\6-8\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+F:\6-8\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+F:\6-8\WindowsFormsApplication1\bin\QRCoder.dll
+F:\6-8\WindowsFormsApplication1\bin\UnityEngine.dll
+D:\working\hly\6-8\6-8\WindowsFormsApplication1\bin\Demo.mdf
+D:\working\hly\6-8\6-8\WindowsFormsApplication1\bin\Demo_log.ldf
+D:\working\hly\6-8\6-8\WindowsFormsApplication1\bin\JHQzxSystemDB.mdf
+D:\working\hly\6-8\6-8\WindowsFormsApplication1\bin\JHQzxSystemDB_log.ldf
+D:\working\hly\6-8\6-8\WindowsFormsApplication1\bin\WindowsFormsApplication1.exe.config
+D:\working\hly\6-8\6-8\WindowsFormsApplication1\bin\WindowsFormsApplication1.exe
+D:\working\hly\6-8\6-8\WindowsFormsApplication1\bin\WindowsFormsApplication1.pdb
+D:\working\hly\6-8\6-8\WindowsFormsApplication1\bin\Camera.dll
+D:\working\hly\6-8\6-8\WindowsFormsApplication1\bin\Newtonsoft.Json.dll
+D:\working\hly\6-8\6-8\WindowsFormsApplication1\bin\QRCoder.dll
+D:\working\hly\6-8\6-8\WindowsFormsApplication1\bin\UnityEngine.dll
+D:\working\hly\6-8\6-8\WindowsFormsApplication1\bin\Camera.pdb
+D:\working\hly\6-8\6-8\WindowsFormsApplication1\bin\Newtonsoft.Json.xml
+D:\working\hly\6-8\6-8\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+D:\working\hly\6-8\6-8\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\working\hly\6-8\6-8\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+D:\working\hly\6-8\6-8\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form3.resources
+D:\working\hly\6-8\6-8\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\working\hly\6-8\6-8\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+D:\working\hly\6-8\6-8\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\working\hly\6-8\6-8\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+D:\working\hly\6-8\6-8\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.CoreCompileInputs.cache
+D:\working\hly\6-8\6-8\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.CopyComplete
+C:\Users\pc\Downloads\6-8_3_with_elevator_status\WindowsFormsApplication1\bin\Demo.mdf
+C:\Users\pc\Downloads\6-8_3_with_elevator_status\WindowsFormsApplication1\bin\Demo_log.ldf
+C:\Users\pc\Downloads\6-8_3_with_elevator_status\WindowsFormsApplication1\bin\JHQzxSystemDB.mdf
+C:\Users\pc\Downloads\6-8_3_with_elevator_status\WindowsFormsApplication1\bin\JHQzxSystemDB_log.ldf
+C:\Users\pc\Downloads\6-8_3_with_elevator_status\WindowsFormsApplication1\bin\WindowsFormsApplication1.exe.config
+C:\Users\pc\Downloads\6-8_3_with_elevator_status\WindowsFormsApplication1\bin\WindowsFormsApplication1.exe
+C:\Users\pc\Downloads\6-8_3_with_elevator_status\WindowsFormsApplication1\bin\WindowsFormsApplication1.pdb
+C:\Users\pc\Downloads\6-8_3_with_elevator_status\WindowsFormsApplication1\bin\Camera.dll
+C:\Users\pc\Downloads\6-8_3_with_elevator_status\WindowsFormsApplication1\bin\Newtonsoft.Json.dll
+C:\Users\pc\Downloads\6-8_3_with_elevator_status\WindowsFormsApplication1\bin\QRCoder.dll
+C:\Users\pc\Downloads\6-8_3_with_elevator_status\WindowsFormsApplication1\bin\UnityEngine.dll
+C:\Users\pc\Downloads\6-8_3_with_elevator_status\WindowsFormsApplication1\bin\Camera.pdb
+C:\Users\pc\Downloads\6-8_3_with_elevator_status\WindowsFormsApplication1\bin\Newtonsoft.Json.xml
+C:\Users\pc\Downloads\6-8_3_with_elevator_status\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\pc\Downloads\6-8_3_with_elevator_status\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\pc\Downloads\6-8_3_with_elevator_status\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\pc\Downloads\6-8_3_with_elevator_status\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form3.resources
+C:\Users\pc\Downloads\6-8_3_with_elevator_status\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\pc\Downloads\6-8_3_with_elevator_status\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\pc\Downloads\6-8_3_with_elevator_status\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\pc\Downloads\6-8_3_with_elevator_status\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+F:\6-8_3_with_elevator_status\WindowsFormsApplication1\bin\Demo.mdf
+F:\6-8_3_with_elevator_status\WindowsFormsApplication1\bin\Demo_log.ldf
+F:\6-8_3_with_elevator_status\WindowsFormsApplication1\bin\JHQzxSystemDB.mdf
+F:\6-8_3_with_elevator_status\WindowsFormsApplication1\bin\JHQzxSystemDB_log.ldf
+F:\6-8_3_with_elevator_status\WindowsFormsApplication1\bin\WindowsFormsApplication1.exe.config
+F:\6-8_3_with_elevator_status\WindowsFormsApplication1\bin\WindowsFormsApplication1.exe
+F:\6-8_3_with_elevator_status\WindowsFormsApplication1\bin\WindowsFormsApplication1.pdb
+F:\6-8_3_with_elevator_status\WindowsFormsApplication1\bin\Camera.dll
+F:\6-8_3_with_elevator_status\WindowsFormsApplication1\bin\Newtonsoft.Json.dll
+F:\6-8_3_with_elevator_status\WindowsFormsApplication1\bin\QRCoder.dll
+F:\6-8_3_with_elevator_status\WindowsFormsApplication1\bin\UnityEngine.dll
+F:\6-8_3_with_elevator_status\WindowsFormsApplication1\bin\Camera.pdb
+F:\6-8_3_with_elevator_status\WindowsFormsApplication1\bin\Newtonsoft.Json.xml
+F:\6-8_3_with_elevator_status\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+F:\6-8_3_with_elevator_status\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+F:\6-8_3_with_elevator_status\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+F:\6-8_3_with_elevator_status\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form3.resources
+F:\6-8_3_with_elevator_status\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+F:\6-8_3_with_elevator_status\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+F:\6-8_3_with_elevator_status\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+F:\6-8_3_with_elevator_status\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+E:\6-8_3_with_elevator_status\WindowsFormsApplication1\bin\Demo.mdf
+E:\6-8_3_with_elevator_status\WindowsFormsApplication1\bin\Demo_log.ldf
+E:\6-8_3_with_elevator_status\WindowsFormsApplication1\bin\JHQzxSystemDB.mdf
+E:\6-8_3_with_elevator_status\WindowsFormsApplication1\bin\JHQzxSystemDB_log.ldf
+E:\6-8_3_with_elevator_status\WindowsFormsApplication1\bin\WindowsFormsApplication1.exe.config
+E:\6-8_3_with_elevator_status\WindowsFormsApplication1\bin\WindowsFormsApplication1.exe
+E:\6-8_3_with_elevator_status\WindowsFormsApplication1\bin\WindowsFormsApplication1.pdb
+E:\6-8_3_with_elevator_status\WindowsFormsApplication1\bin\Camera.dll
+E:\6-8_3_with_elevator_status\WindowsFormsApplication1\bin\Newtonsoft.Json.dll
+E:\6-8_3_with_elevator_status\WindowsFormsApplication1\bin\QRCoder.dll
+E:\6-8_3_with_elevator_status\WindowsFormsApplication1\bin\UnityEngine.dll
+E:\6-8_3_with_elevator_status\WindowsFormsApplication1\bin\Camera.pdb
+E:\6-8_3_with_elevator_status\WindowsFormsApplication1\bin\Newtonsoft.Json.xml
+E:\6-8_3_with_elevator_status\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+E:\6-8_3_with_elevator_status\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+E:\6-8_3_with_elevator_status\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+E:\6-8_3_with_elevator_status\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form3.resources
+E:\6-8_3_with_elevator_status\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\6-8_3_with_elevator_status\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+E:\6-8_3_with_elevator_status\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+E:\6-8_3_with_elevator_status\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
